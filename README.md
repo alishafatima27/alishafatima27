@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 🎮 Mastered Ctrl+C and Ctrl+V – I can copy and paste with my eyes closed! (Well, almost.)<br>- 💻 Fluent in Binary – just kidding, I speak human too! 🤖<br>- ☕ Caffeinated coder – my code runs on coffee, and so do I! ☕<br>- 🧟‍♀️ Digital zombie on a tech quest – conquering one line of code at a time.</p>
+<p align="left">- 🎮 Mastered Ctrl+C and Ctrl+V – I can copy and paste with my eyes closed! (Well, almost.)<br>- 💻 Fluent in Binary – just kidding, I speak human too! 🤖<br>- ☕ Caffeinated coder – I run on tea and my codes are run by me! ☕<br>- 🧟‍♀️ Digital zombie on a tech quest – conquering one line of code at a time.</p>
 
 ###
 
